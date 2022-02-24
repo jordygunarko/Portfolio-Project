@@ -10,7 +10,7 @@ FROM
   PortfolioProject.dbo.CovidVaccinations
 ORDER BY 3,4
 
---Select Data that we are going to be using
+--Preview the data that we are going to be using
 
 SELECT
   Location, date, total_cases, new_cases, total_deaths, population
