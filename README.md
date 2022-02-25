@@ -1,5 +1,5 @@
 # Portfolio-Project
-## SQL Data Exploration
+### SQL Data Exploration
 
    In this project, I'll be performing exploratory data analysis and calculations in SQL, which includes using aggregate functions & GROUP BY, JOINS, converting data types using the CAST function, CTEs and other functions used for analysis
 
