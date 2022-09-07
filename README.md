@@ -9,4 +9,4 @@ Which can be found through this link: https://ourworldindata.org/covid-deaths
   The data will show many interesting facts, such as a cumulative total of covid cases as the date progresses, and specifying it for each country and continent. I will be splitting the dataset into 2 tables, which includes covid deaths and vaccinations, and my focus will be mainly on covid deaths and vaccinations.
 
 ### Python Data Cleaning and Exploratory Data Analysis
-This is a case study to demonstrate my ability in loading the data, cleaning the data, doing exploratory data analysis (EDA) and visualizing the data in Python on a fictional e-commerce business.
+This is a case study to demonstrate my ability in loading the data, cleaning the data, doing exploratory data analysis (EDA) and visualizing the data in Python on a fictional e-commerce business dataset.
